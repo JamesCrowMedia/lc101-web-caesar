@@ -75,6 +75,16 @@ header = """
                 float: right;
                 margin-right: -22px;
             }
+
+            #submit:hover {
+                background-color: #D0CBCB;
+            }
+
+            #submit:active {
+                background-color: #000;
+                color: #fff;
+            }
+
         </style>
         </head>
         <body>
